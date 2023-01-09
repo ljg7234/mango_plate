@@ -4,7 +4,6 @@
 
 ![image](https://user-images.githubusercontent.com/51785795/210170693-49c9437c-7f2d-44ff-a73c-c4ce9673fdfa.png)
 
-
 스플래시 스크린
 
 ![image](https://user-images.githubusercontent.com/51785795/210170702-a3d4bd14-72ee-459b-944d-aa9edc6ae790.png)
