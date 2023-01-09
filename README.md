@@ -1,5 +1,5 @@
 # mango_plate 어플
-## 망고 플레이트라는 기존의 주변의 맛집을 찾아주는 웹사이트를 어플을 통해 이용할 수 있게 함
+### 망고 플레이트라는 기존의 주변의 맛집을 찾아주는 웹사이트를 어플을 통해 이용할 수 있게 함
 
 
 ![image](https://user-images.githubusercontent.com/51785795/210170693-49c9437c-7f2d-44ff-a73c-c4ce9673fdfa.png)
